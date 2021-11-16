@@ -1,0 +1,15 @@
+D:\C#\C-\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.csproj.AssemblyReference.cache
+D:\C#\C-\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.AssemblyInfoInputs.cache
+D:\C#\C-\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.AssemblyInfo.cs
+D:\C#\C-\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+D:\C#\C-\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.exe
+D:\C#\C-\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.deps.json
+D:\C#\C-\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.runtimeconfig.json
+D:\C#\C-\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.dll
+D:\C#\C-\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ref\ExercicioInterface.dll
+D:\C#\C-\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.pdb
+D:\C#\C-\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.dll
+D:\C#\C-\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ref\ExercicioInterface.dll
+D:\C#\C-\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.pdb
+D:\C#\C-\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.genruntimeconfig.cache
